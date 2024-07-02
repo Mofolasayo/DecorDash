@@ -18,6 +18,8 @@ ProductsPage: Lists the products in a selected category.
 Details: Shows detailed information about a selected product.
 CartScreen: Displays the items added to the cart with an option to remove items and proceed to checkout.
 
+Appetizo: https://appetize.io/app/lafiuhmb4353r4uywqfgq53jvm?device=pixel7&osVersion=13.0
+
 
 
 https://github.com/Mofolasayo/DecorDash/assets/115883934/f0699567-8c22-4321-b782-228665c22531
