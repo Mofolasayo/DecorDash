@@ -1,0 +1,27 @@
+{
+    "items": [
+        {
+            "id": 2,
+            "title": "Annibale Colombo Sofa",
+            "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+            "price": 2499.99,
+            "category": "sofa",
+            "images": [
+                "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
+                "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
+                "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
+              ]
+          },
+          {
+            "id": 15,
+            "title": "Paris Kad Sofa Set",
+            "description": "the Paris Kad Sofa Set, a luxurious addition to any contemporary living space. Crafted with meticulous attention to detail and designed for both style and comfort, this sofa set is sure to elevate the ambiance of your home. .",
+            "price": 299.99,
+            "category": "sofa",
+            "images": [
+                "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Sofa-Set.webp",
+                "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Sofa-Set-Triple.webp",
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+            ]
+          }]}
+          

@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "id": 4,
+            "title": "Knoll Saarinen Executive Conference Chair",
+            "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+            "price": 499.99,
+            "category": "chair",
+            "images": 
+                "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png"    
+            
+          },
+          {
+            "id": 6,
+            "title": "Royal Dininng Chair",
+            "description": "The Echo Dining Chair combines classic design with modern materials, featuring a sturdy metal frame and a comfortable upholstered seat. The chair’s contoured backrest offers excellent lumbar support, and the high-quality fabric is both durable and easy to clean. This chair is perfect for adding a touch of sophistication to your dining area.",
+            "price": 299.99,
+            "category": "chair",
+            "images": 
+                "https://www.taeillo.ng/cdn/shop/files/ode-chair-occasional-chairs-40639242830046_1080x1080.jpg?v=1711050177"
+            
+          },
+          {
+            "id": 7,
+            "title": "Luna Accent Chair",
+            "description": "The Luna Accent Chair is an eye-catching addition to any space with its striking and vibrant geometric pattern. It offers a perfect blend of style and comfort with its cozy cushioning, making it an ideal choice for adding a touch of flair to any room in your home.",
+            "price": 299.99,
+            "category": "chair",
+            "images": 
+                "https://img.freepik.com/premium-vector/set-armchair-isolated-white_288453-120.jpg?w=996"
+                
+            
+          },
+          {
+            "id": 8,
+            "title": "The Avalon Chair",
+            "description": "The Avalon Chair is a stunning piece of furniture that boasts a sleek and contemporary design. Its padded seat and backrest provide exceptional comfort, making it an ideal addition to any modern living space.",
+            "price": 299.99,
+            "category": "chair",
+            "images": 
+                "https://img.freepik.com/free-vector/chair-realistic-illustration_1284-9507.jpg?t=st=1719256654~exp=1719260254~hmac=3acb37f7b7f69992c538e9e0b9246cc7d829cf74a197ca28f04b82baba266985&w=1060"  
+            
+          },
+          {
+            "id": 9,
+            "title": "Zephyr Armchair",
+            "description": "The Zephyr Armchair offers a blend of style and comfort with its plush cushions and elegant wooden frame. Upholstered in premium fabric, this armchair provides exceptional support for the back and arms. Its neutral color palette makes it a versatile addition to any home decor, while the high-density foam ensures lasting comfort.",
+            "price": 299.99,
+            "category": "chair",
+            "images": 
+                "https://img.freepik.com/free-psd/armchair-pillow_176382-870.jpg?t=st=1719256300~exp=1719259900~hmac=e631c732ecb67643d91526c37418213858dbb5b1dbb61f5f41aa7b8c145319b3&w=1060"
+            
+          },
+          {
+            "id": 10,
+            "title": "Comet Reading Chair",
+            "description": "The Comet Reading Chair is designed for ultimate comfort and relaxation, making it the perfect addition to your reading nook. ",
+            "price": 299.99,
+            "category": "chair",
+            "images": 
+                "https://img.freepik.com/free-photo/picture-frame-with-abstract-art-by-pink-velvet-armchair_53876-128125.jpg?t=st=1719256916~exp=1719260516~hmac=2d2115094e51f271e856cc1ab42ce79d3d19b5c41e2bfcf17c9ef2df226ea123&w=826"
+            
+          },
+          {
+            "id": 11,
+            "title": "Nova Recliner",
+            "description": "The Nova Recliner provides ultimate relaxation with its adjustable reclining mechanism and soft, supportive padding. Featuring a sleek leather finish and a sturdy base, this recliner is perfect for unwinding after a long day. The smooth recline function allows you to find the perfect angle for reading, watching TV, or taking a nap.",
+            "price": 299.99,
+            "category": "chair",
+            "images": 
+                "https://img.freepik.com/premium-photo/photo-modern-luxury-arm-chair-furniture-design_763111-22113.jpg?w=1060"
+                 
+          }]
+        }

@@ -1,0 +1,24 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "Annibale Colombo Bed",
+        "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+        "price": 1899.99,
+        "category": "bed",
+        "images": 
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png"
+        
+      },
+      {
+        "id": 12,
+        "title": "Elysium Platform Bed",
+        "description": "The Elysium Platform Bed combines sleek design with functionality, featuring a low-profile frame and built-in storage drawers. The solid wood construction ensures durability, while the upholstered headboard adds a touch of comfort. Perfect for modern bedrooms, this bed provides ample storage space to keep your room tidy and organized.",
+        "price": 4999.99,
+        "category": "bed",
+        "images": 
+            "https://as1.ftcdn.net/v2/jpg/04/90/37/92/1000_F_490379208_4nuzrzxHSPo8uPe954muXNEKaPpCAcWA.jpg"  
+        
+      }]
+    }
+    

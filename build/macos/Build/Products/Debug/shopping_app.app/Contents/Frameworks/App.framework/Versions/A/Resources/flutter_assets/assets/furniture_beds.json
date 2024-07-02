@@ -1,0 +1,28 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "Annibale Colombo Bed",
+        "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+        "price": 1899.99,
+        "category": "bed",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Bed",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "bed",
+        "images": [
+            "https://as1.ftcdn.net/v2/jpg/04/90/37/92/1000_F_490379208_4nuzrzxHSPo8uPe954muXNEKaPpCAcWA.jpg",
+            "https://t3.ftcdn.net/jpg/02/06/00/92/240_F_206009279_oJttBeXiY25fxzo8yzIbmXMx3W5v3IWh.jpg",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      }]
+    }
+    

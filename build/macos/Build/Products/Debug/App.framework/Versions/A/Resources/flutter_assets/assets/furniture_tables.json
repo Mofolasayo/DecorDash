@@ -1,0 +1,63 @@
+{
+    "items": [
+        {
+            "id": 3,
+            "title": "Bedside Table African Cherry",
+            "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+            "price": 299.99,
+            "category": "table",
+            "images": [
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+            ]
+          },
+          {
+            "id": 13,
+            "title": "Bedside Table African Cherry",
+            "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+            "price": 299.99,
+            "category": "sofa",
+            "images": [
+                "https://img.freepik.com/free-psd/modern-living-room-with-sofa-frame-mockup_176382-599.jpg?t=st=1719256849~exp=1719260449~hmac=4af1540a48a0a75b4432fe8586a1548bdd1d58488cdbe57798d28aa4a59721e0&w=1480",
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+            ]
+          },
+          {
+            "id": 14,
+            "title": "Channel Dining Set",
+            "description": "Introducing the Channel Dining Set – a perfect marriage of style and dining delight. This meticulously crafted dining set not only provides a comfortable space for meals but also elevates your dining area with contemporary aesthetics.",
+            "price": 299.99,
+            "category": "table",
+            "images": [
+                "https://ventofurniture.com/wp-content/uploads/2024/01/Channel-Dining-Set.webp",
+                "https://ventofurniture.com/wp-content/uploads/2024/01/Channel-Console-Mirror-2.webp",
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+            ]
+          },
+          {
+            "id": 15,
+            "title": "Paris Kad Dining Set",
+            "description": "the Paris Kad Dining Set, a luxurious addition to any dining room or kitchen. Designed with impeccable style and superior craftsmanship, this dining set offers a perfect blend of elegance and functionality.",
+            "price": 299.99,
+            "category": "table",
+            "images": [
+                "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Dining-Set.webp",
+                "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Dining-Set-Console-Mirror.webp",
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+            ]
+          },
+          {
+            "id": 1,
+            "title": "Classic Center Table",
+            "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+            "price": 1899.99,
+            "category": "table",
+            "images": [
+              "https://elifemate.com/wp-content/uploads/2023/07/BM657.webp",
+              "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+              "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+            ]
+          }]
+        }

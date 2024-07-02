@@ -1,0 +1,55 @@
+{
+    "items": [
+        {
+            "id": 3,
+            "title": "Bedside Table African Cherry",
+            "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+            "price": 188.99,
+            "category": "table",
+            "images": 
+                "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png"
+               
+            
+          },
+          {
+            "id": 13,
+            "title": "Orian Coffee Table",
+            "description": "The Orion Coffee Table features a minimalist design with a glass top and sleek metal legs. Its spacious surface is perfect for holding books, magazines, and decorative items, while the tempered glass adds a touch of elegance. The sturdy metal frame ensures durability and stability, making it a stylish and practical addition to any living room.",
+            "price": 385.99,
+            "category": "sofa",
+            "images": 
+                "https://img.freepik.com/free-psd/modern-living-room-with-sofa-frame-mockup_176382-599.jpg?t=st=1719256849~exp=1719260449~hmac=4af1540a48a0a75b4432fe8586a1548bdd1d58488cdbe57798d28aa4a59721e0&w=1480"
+                
+            
+          },
+          {
+            "id": 14,
+            "title": "Channel Dining Set",
+            "description": "Introducing the Channel Dining Set – a perfect marriage of style and dining delight. This meticulously crafted dining set not only provides a comfortable space for meals but also elevates your dining area with contemporary aesthetics.",
+            "price": 1999.99,
+            "category": "table",
+            "images": 
+                "https://ventofurniture.com/wp-content/uploads/2024/01/Channel-Dining-Set.webp"
+            
+          },
+          {
+            "id": 15,
+            "title": "Paris Kad Dining Set",
+            "description": "the Paris Kad Dining Set, a luxurious addition to any dining room or kitchen. Designed with impeccable style and superior craftsmanship, this dining set offers a perfect blend of elegance and functionality.",
+            "price": 2999.99,
+            "category": "table",
+            "images": 
+                "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Dining-Set.webp"
+            
+          },
+          {
+            "id": 16,
+            "title": "Zen Console Table",
+            "description": "The Zen Console Table offers a simple, elegant design with a smooth wooden surface and clean lines. Ideal for entryways and hallways, this table provides a perfect spot for displaying photos, vases, or other decorative items. The solid wood construction ensures durability, while the minimalist design complements any decor style",
+            "price": 1899.99,
+            "category": "table",
+            "images": 
+              "https://elifemate.com/wp-content/uploads/2023/07/BM657.webp"
+            
+          }]
+        }

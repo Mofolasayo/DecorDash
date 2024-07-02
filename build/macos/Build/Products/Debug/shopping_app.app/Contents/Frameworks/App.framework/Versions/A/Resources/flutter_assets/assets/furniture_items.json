@@ -1,0 +1,232 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "Annibale Colombo Bed",
+        "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+        "price": 1899.99,
+        "category": "bed",
+        "images": [
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Annibale Colombo Sofa",
+        "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+        "price": 2499.99,
+        "category": "sofa",
+        "images": [
+            "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
+          ]
+      },
+      {
+        "id": 3,
+        "title": "Bedside Table African Cherry",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "table",
+        "images": [
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Knoll Saarinen Executive Conference Chair",
+        "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+        "price": 499.99,
+        "category": "chair",
+        "images": [
+            "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png"    
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Wooden Bathroom Sink With Mirror",
+        "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+        "price": 799.99,
+        "category": "furniture",
+        "images": [
+            "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Royal Ode Chair",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "chair",
+        "images": [
+            "https://www.taeillo.ng/cdn/shop/files/ode-chair-occasional-chairs-40639242830046_1080x1080.jpg?v=1711050177",
+            "https://www.taeillo.ng/cdn/shop/files/ode-chair-occasional-chairs-40506981908702_1080x1080.jpg?v=1711050076"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Vibrant Arm Chair",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "chair",
+        "images": [
+            "https://img.freepik.com/premium-vector/set-armchair-isolated-white_288453-120.jpg?w=996",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Red Chair",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "chair",
+        "images": [
+            "https://img.freepik.com/free-vector/chair-realistic-illustration_1284-9507.jpg?t=st=1719256654~exp=1719260254~hmac=3acb37f7b7f69992c538e9e0b9246cc7d829cf74a197ca28f04b82baba266985&w=1060",
+            "https://img.freepik.com/free-vector/chair-realistic-icon-set_1284-17137.jpg?t=st=1719256705~exp=1719260305~hmac=eb66241f951ab1341a82fece4d2237b838ae5119639927b427580e52dc92c667&w=1060",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 9,
+        "title": "White chair",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "chair",
+        "images": [
+            "https://img.freepik.com/free-psd/armchair-pillow_176382-870.jpg?t=st=1719256300~exp=1719259900~hmac=e631c732ecb67643d91526c37418213858dbb5b1dbb61f5f41aa7b8c145319b3&w=1060",
+            "https://img.freepik.com/free-psd/armchair-pillow_176382-881.jpg?t=st=1719256822~exp=1719260422~hmac=cac6bfe2b77918f1fc3e6051aaaa2edf9d3c20d0cce87cb448d685d1de180e77&w=1060",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Pink Chair",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "chair",
+        "images": [
+            "https://img.freepik.com/free-photo/picture-frame-with-abstract-art-by-pink-velvet-armchair_53876-128125.jpg?t=st=1719256916~exp=1719260516~hmac=2d2115094e51f271e856cc1ab42ce79d3d19b5c41e2bfcf17c9ef2df226ea123&w=826",
+            "https://img.freepik.com/premium-psd/picture-frame-mockup-psd-by-orange-velvet-armchair_53876-150859.jpg?w=826",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Green chair",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "chair",
+        "images": [
+            "https://img.freepik.com/premium-photo/photo-modern-luxury-arm-chair-furniture-design_763111-22113.jpg?w=1060",
+            "https://img.freepik.com/premium-photo/photo-modern-comfortable-armchair-designs_763111-16843.jpg?w=1060",
+            "https://img.freepik.com/premium-photo/yellow-sofa-with-rug-lamp-white-background-rendering-high-definition-details_763111-3824.jpg?w=1060"    
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Bed",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "bed",
+        "images": [
+            "https://as1.ftcdn.net/v2/jpg/04/90/37/92/1000_F_490379208_4nuzrzxHSPo8uPe954muXNEKaPpCAcWA.jpg",
+            "https://t3.ftcdn.net/jpg/02/06/00/92/240_F_206009279_oJttBeXiY25fxzo8yzIbmXMx3W5v3IWh.jpg",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Bedside Table African Cherry",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "sofa",
+        "images": [
+            "https://img.freepik.com/free-psd/modern-living-room-with-sofa-frame-mockup_176382-599.jpg?t=st=1719256849~exp=1719260449~hmac=4af1540a48a0a75b4432fe8586a1548bdd1d58488cdbe57798d28aa4a59721e0&w=1480",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Channel Dining Set",
+        "description": "Introducing the Channel Dining Set – a perfect marriage of style and dining delight. This meticulously crafted dining set not only provides a comfortable space for meals but also elevates your dining area with contemporary aesthetics.",
+        "price": 299.99,
+        "category": "table",
+        "images": [
+            "https://ventofurniture.com/wp-content/uploads/2024/01/Channel-Dining-Set.webp",
+            "https://ventofurniture.com/wp-content/uploads/2024/01/Channel-Console-Mirror-2.webp",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Paris Kad Sofa Set",
+        "description": "the Paris Kad Sofa Set, a luxurious addition to any contemporary living space. Crafted with meticulous attention to detail and designed for both style and comfort, this sofa set is sure to elevate the ambiance of your home. .",
+        "price": 299.99,
+        "category": "sofa",
+        "images": [
+            "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Sofa-Set.webp",
+            "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Sofa-Set-Triple.webp",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Paris Kad Dining Set",
+        "description": "the Paris Kad Dining Set, a luxurious addition to any dining room or kitchen. Designed with impeccable style and superior craftsmanship, this dining set offers a perfect blend of elegance and functionality.",
+        "price": 299.99,
+        "category": "table",
+        "images": [
+            "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Dining-Set.webp",
+            "https://ventofurniture.com/wp-content/uploads/2024/02/Paris-Kad-Dining-Set-Console-Mirror.webp",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Classic Center Table",
+        "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+        "price": 1899.99,
+        "category": "table",
+        "images": [
+          "https://elifemate.com/wp-content/uploads/2023/07/BM657.webp",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Annibale Colombo Sofa",
+        "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+        "price": 2499.99,
+        "category": "furniture",
+        "images": [
+            "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
+          ]
+      },
+      {
+        "id": 3,
+        "title": "Bedside Table African Cherry",
+        "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+        "price": 299.99,
+        "category": "furniture",
+        "images": [
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+            "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"    
+        ]
+      }
+    ]
+  }
+  
